@@ -1,0 +1,5 @@
+.vscode
+*.tar
+
+generate_method_results
+generate_practical_results
